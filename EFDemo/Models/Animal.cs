@@ -6,6 +6,8 @@ namespace EFDemo.Models
 
         public string Name { get; set; }
 
+        public string Order { get; set; }
+
         public string Genus { get; set; }
 
         public string Family { get; set; }
